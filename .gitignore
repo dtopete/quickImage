@@ -1,0 +1,12 @@
+stb_image_write.h
+stb_image.h
+quickimage
+*.o
+*.png
+assets/*
+Makefile
+*.cmake
+CMakeFiles/
+build/
+CMakeCache.txt
+Makefile
